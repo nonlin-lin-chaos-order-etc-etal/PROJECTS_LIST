@@ -11,7 +11,7 @@ List of my projects everywhere.
  * Пока не определился. 
  * Очень возможно, что opensource c лицензией GPLv3+ либо BSD3 (последнее более вероятно). 
  * Ещё интересует вычислительная политика --- например, мониторинг общественного мнения (web scraping и др. datasources).
- * ...Думаю, security системой займусь... пока в размышлениях.
+ * ...Думаю, security системой займусь https://github.com/securityai ... пока в размышлениях.
 
 УИИ is https://neural-university.ru/
 
